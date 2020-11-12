@@ -1,2 +1,2 @@
 # average-perceptron
-OOB average perceptron in Python
+OOP average perceptron in Python
